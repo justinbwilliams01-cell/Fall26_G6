@@ -9,6 +9,9 @@ Our product idea is called CampusConnect. CampusConnect is a platform designed t
 
 ### Team Meeting Minutes
 
+Team met 09-16-26 from 2pm-4pm. 
+Each member (Javian M., Demetric N., Justin W) was present. 
+
 During our group meeting, Group 6 discussed possible ideas for our project and the responsibilities of each team member. We agreed that communication and teamwork will be important throughout the development of the project.
 
 The team discussed the CampusConnect idea and identified some of its potential features. These features include student accounts, campus event listings, organization information, academic resources, and notifications for upcoming events.
