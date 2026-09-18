@@ -34,8 +34,8 @@ My role in Group 6 is Technical Lead and Developer. I will help with the technic
 
 ## TEAMMATE  #2
 
-### About Me
-My name is justin noble , and I am a Computer Science major at Albany State University. I am interested in technology, software development, and learning how technology can be used to solve real-world problems. I enjoy working with others, learning new skills, and contributing ideas to group projects.
+### Justin Williams- About Me
+My name is Justin Williams , and I am a Computer Science major at Albany State University. I am interested in technology, software development, and learning how technology can be used to solve real-world problems. I enjoy working with others, learning new skills, and contributing ideas to group projects.
 
 ### My Role - Project Manager
 
@@ -52,8 +52,8 @@ My role in Group 6 is Project Manager. I am responsible for helping the group st
 
 ## TEAMMATE  #3
 
-### About Me
-My name is demetric noble, and I am a Computer Science major at Albany State University. I am interested in technology and gaining more experience with the process of designing and developing computer applications. I enjoy solving problems, working as part of a team, and developing skills that can be applied to future technology projects.
+### Demetric Noble - About Me
+My name is Demetric Noble, and I am a Computer Science major at Albany State University. I am interested in technology and gaining more experience with the process of designing and developing computer applications. I enjoy solving problems, working as part of a team, and developing skills that can be applied to future technology projects.
 
 ### My Role - UI/UX Designer and Documentation Lead
 
