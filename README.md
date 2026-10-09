@@ -3,7 +3,7 @@
 ## Members
 1. Javian Mack
 2. Demetric Noble
-3. Justine Williams
+3. Justin Williams
 
 ## Part 1 - work done by each member
 ### 1. Javian Mack
@@ -27,9 +27,9 @@
     Communicate progress with other group members.
     Help maintain project files and documentation using GitHub.
 
-    TEAMMATE #2
+    TEAMMATE #2: Justin Williams
     About Me
-    My name is justin noble , and I am a Computer Science major at Albany State University. I am interested in technology, software development, and learning how technology can be used to solve real-world problems. I enjoy working with others, learning new skills, and contributing ideas to group projects.
+    My name is Justin Williams , and I am a Computer Science major at Albany State University. I am interested in technology, software development, and learning how technology can be used to solve real-world problems. I enjoy working with others, learning new skills, and contributing ideas to group projects.
 
     My Role - Project Manager
     My role in Group 6 is Project Manager. I am responsible for    helping the group stay organized and making sure everyone understands their assigned responsibilities. I will help organize group meetings, keep track of deadlines, communicate with team members, and make sure the group continues making progress toward completing the project.
@@ -42,9 +42,9 @@
     Communicate important information to group members.
     Help make sure all project requirements are completed.
 
-    TEAMMATE #3
+    TEAMMATE #3: Demetric Noble
     About Me
-    My name is demetric noble, and I am a Computer Science major at Albany State University. I am interested in technology and gaining more experience with the process of designing and developing computer applications. I enjoy solving problems, working as part of a team, and developing skills that can be applied to future technology projects.
+    My name is Demetric Noble, and I am a Computer Science major at Albany State University. I am interested in technology and gaining more experience with the process of designing and developing computer applications. I enjoy solving problems, working as part of a team, and developing skills that can be applied to future technology projects.
 
     My Role - UI/UX Designer and Documentation Lead
     My role in Group 6 is UI/UX Designer and Documentation Lead. I am responsible for helping design how our product will look and how users will interact with it. I will also assist with maintaining project documentation and making sure our ideas, features, and progress are clearly documented.
@@ -71,6 +71,23 @@
 Same as above
 
 
-### 3. Justine Williams
+### 3. Justin Williams
 
 Same as above
+
+## Project 2 – CampusConnect Prototype and Scrum
+
+For Project 2, Group 6 created and tested an interactive Figma prototype for CampusConnect. The prototype includes student accounts, a home screen, campus events, event details, student organizations, academic resources, notifications, and student profiles.
+
+### Project 2 Files
+
+- [Meeting 1 Minutes – Justin Williams](minutes_1_Justin_Williams.md)
+- [Meeting 2 Minutes – Justin Williams](minutes_2_Justin_Williams.md)
+- [Meeting 3 Minutes – Justin Williams](minutes_3_Justin_Williams.md)
+- [Product Backlog](product_backlog.md)
+- [User Types and Usage](user_types_and_usage.md)
+- [Prototype Description](prototype_description.md)
+
+### Figma Prototype
+
+The shareable Figma prototype link will be added after access is confirmed.
