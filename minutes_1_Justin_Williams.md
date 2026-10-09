@@ -16,13 +16,14 @@ Justin Williams
 
 | PBI | Status | Sprint | Estimate | Assigned To | Reviewer |
 |---|---|---|---|---|---|
-| Create login, registration, and student-profile prototypes | Not Started | Sprint 1 | TBD | Justin Williams | TBD |
-| Create home, event-discovery, and event-details prototypes | Not Started | Sprint 1 | TBD | Javian Mack | TBD |
-| Create organization and campus-resource prototypes | Not Started | Sprint 1 | TBD | Demetric Noble | TBD |
-| Review prototypes for consistency | Not Started | Sprint 1 | TBD | Demetric Noble | TBD |
-| Document user types and how they will use CampusConnect | Not Started | Sprint 1 | TBD | Justin Williams | TBD |
+| Discuss CampusConnect users and required features | Completed | Sprint 1 | 2 hours | All team members | All team members |
+| Plan the main screen and major application screens | Completed | Sprint 1 | 2 hours | All team members | All team members |
+| Develop the interactive Figma prototype | In Progress | Sprint 1 | 4 hours | All team members | All team members |
+| Review prototype layout and navigation | Not Started | Sprint 1 | 1 hour | All team members | All team members |
+| Document user types and usage | Not Started | Sprint 1 | 1 hour | Justin Williams | Demetric Noble |
 
 ## Decisions Made
 
-- The team will create prototypes for CampusConnect’s main and major screens.
-- Each team member will complete their assigned screens and report their progress during the next Scrum meeting.
+- The team agreed on the required features and screens for CampusConnect.
+- The group decided to work together on planning and reviewing the prototype.
+- Progress would be reviewed during the next Scrum meeting.
