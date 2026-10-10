@@ -90,4 +90,4 @@ For Project 2, Group 6 created and tested an interactive Figma prototype for Cam
 
 ### Figma Prototype
 
-The shareable Figma prototype link will be added after access is confirmed.
+[Open the CampusConnect Interactive Figma Prototype](https://www.figma.com/make/tYbGYcpvGw2PfaWqTRtHN4/CampusConnect-App-Prototype?t=2xIsEA25CxzFunmb-1)
