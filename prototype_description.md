@@ -22,3 +22,5 @@ The team tested the prototype’s screens, buttons, and navigation. We reviewed 
 ## Figma Prototype
 
 [Open the CampusConnect Interactive Figma Prototype](https://www.figma.com/make/tYbGYcpvGw2PfaWqTRtHN4/CampusConnect-App-Prototype?t=2xIsEA25CxzFunmb-1)
+
+[Public Link](https://www.figma.com/make/tYbGYcpvGw2PfaWqTRtHN4/CampusConnect-App-Prototype?t=mDOfuWaeaEjEJEvR-1)

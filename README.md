@@ -91,3 +91,5 @@ For Project 2, Group 6 created and tested an interactive Figma prototype for Cam
 ### Figma Prototype
 
 [Open the CampusConnect Interactive Figma Prototype](https://www.figma.com/make/tYbGYcpvGw2PfaWqTRtHN4/CampusConnect-App-Prototype?t=2xIsEA25CxzFunmb-1)
+
+[Public Link](https://www.figma.com/make/tYbGYcpvGw2PfaWqTRtHN4/CampusConnect-App-Prototype?t=mDOfuWaeaEjEJEvR-1)
