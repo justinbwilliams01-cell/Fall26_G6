@@ -17,7 +17,7 @@ We also tested the buttons and navigation to make sure users could move between 
 | PBI | Status | Sprint | Estimate | Assigned To | Reviewer |
 |---|---|---|---|---|---|
 | Review all required prototype screens | Completed | Sprint 1 | 1 hour | All team members | All team members |
-| Test prototype buttons and navigation | Completed | Sprint 1 | 1 hour | All team members | All team members |
+| Test prototype buttons and navigation | Completed | Sprint 1 | 1 hour | Javian Mack | All team members |
 | Review the layout and visual consistency | Completed | Sprint 1 | 1 hour | Demetric Noble | Justin Williams and Javian Mack |
 | Document user types and usage | Not Started | Sprint 1 | 1 hour | Justin Williams | Demetric Noble |
 | Finish repository documentation | In Progress | Sprint 1 | 2 hours | Justin Williams | All team members |

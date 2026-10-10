@@ -2,8 +2,8 @@ Justin Williams
 
 # Project 2 – Meeting 1 Minutes
 
-**Date:**  
-**Time:**  
+**Date:** September 30, 2026 
+**Time:** 6:00PM-8:00PM 
 **Members Present:** Justin Williams, Javian Mack, and Demetric Noble
 
 ## Topics Discussed
@@ -17,8 +17,8 @@ Justin Williams
 | PBI | Status | Sprint | Estimate | Assigned To | Reviewer |
 |---|---|---|---|---|---|
 | Discuss CampusConnect users and required features | Completed | Sprint 1 | 2 hours | All team members | All team members |
-| Plan the main screen and major application screens | Completed | Sprint 1 | 2 hours | All team members | All team members |
-| Develop the interactive Figma prototype | In Progress | Sprint 1 | 4 hours | All team members | All team members |
+| Plan the main screen and major application screens | Completed | Sprint 1 | 2 hours | Javian Mack | All team members |
+| Develop the interactive Figma prototype | In Progress | Sprint 1 | 4 hours | Javian Mack | All team members |
 | Review prototype layout and navigation | Not Started | Sprint 1 | 1 hour | All team members | All team members |
 | Document user types and usage | Not Started | Sprint 1 | 1 hour | Justin Williams | Demetric Noble |
 
