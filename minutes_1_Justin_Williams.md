@@ -2,8 +2,10 @@ Justin Williams
 
 # Project 2 – Meeting 1 Minutes
 
-**Date:** September 30, 2026 
-**Time:** 6:00PM-8:00PM 
+**Date:** September 30, 2026
+
+**Meeting Time:** 6:00 PM–8:00 PM
+
 **Members Present:** Justin Williams, Javian Mack, and Demetric Noble
 
 ## Topics Discussed
