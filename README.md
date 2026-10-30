@@ -105,8 +105,16 @@ Same as above
 
 
 
-### Justine Williams
+### Justin Williams
 
  No submission
 
+## Project 4
+
+Project 4 contains my CampusConnect cloud architecture, Notification Service container description, necessary component files, database usage, Notifications table structure, and Scrum meeting minutes.
+
+- [Justin Williams – Project 4 Architecture](Project4/project4_Justin_Williams.md)
+- [Meeting 1 Minutes](Project4/minutes_1.md)
+- [Meeting 2 Minutes](Project4/minutes_2.md)
+- [Meeting 3 Minutes](Project4/minutes_3.md)
   
